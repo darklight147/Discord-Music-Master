@@ -9,7 +9,7 @@
     "dependencies": {
         "@sentry/node": "^6.3.4",
         "@sentry/tracing": "^6.3.4",
-        "axios": "^0.21.1",
+        "axios": "^0.21.2",
         "discord.js": "^12.5.1",
         "lodash": "^4.17.21",
         "lyrics-parse": "^1.1.0",
