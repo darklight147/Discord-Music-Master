@@ -1,3 +1,5 @@
+<h1 align="center">Moved home to <a href="https://github.com/Game-Linter/Discord-Music-Master/">Game-Linter/Discord-Music-Master</a></h1>
+
 <div align="center">
     <img src="https://i.imgur.com/tQrygFc.png" width="128px" style="max-width:100%;">
     <h3 style="font-size: 2rem; margin-bottom: 0">Game-Linter Music Master README</h3>
